@@ -97,9 +97,9 @@ Product Performance
 
 Monthly & Category-wise Trends
 
-(link) dashboard 
+https://github.com/Mehween-fatima/Customer-shopping-behaviour-analysis-/blob/main/customer_shopping_clean.csv
 
-
+https://github.com/Mehween-fatima/Customer-shopping-behaviour-analysis-/blob/main/customer%20behavior%20pdf.pdf
 
 Key Results & Insights
 
